@@ -8,4 +8,4 @@ The majority of the time, machine learning algorithms are developed utilizing ac
 - Supervised Learning
 - Unsupervised Learning
 - Semi-Supervised Learning
-- Reinforcement Learning
+- Reinforcement Learning 
